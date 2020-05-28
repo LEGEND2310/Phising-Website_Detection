@@ -40,6 +40,7 @@ But I would reccomend using csv file available in this repository for ease of us
 Download a copy of the repository and you will be good to go.
 # Project Overview
 1. Exploratory Data Analysis
+
   a. Studying the data in tabular form
   
   b. Creating Basic plots and infering relations between data features visually
