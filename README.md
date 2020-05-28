@@ -43,9 +43,13 @@ Download a copy of the repository and you will be good to go.
   a. Studying the data in tabular form
   
   b. Creating Basic plots and infering relations between data features visually
+  
 2. Data Pre-Processing
+
 3. Train Test Split (80:20)
+
 4. Machine Learning Classifiers
+
   a. Logistic Regression
   
   b. K-Nearest Neighbours
@@ -53,5 +57,7 @@ Download a copy of the repository and you will be good to go.
   c. Decision Trees and Random Forest classifier
   
   d. Support Vector Machine
+  
 5. Introduction to Basic Deep Learning Model and Neural Network
+
 6. Comparing Prediction Accuracy
