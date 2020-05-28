@@ -33,3 +33,7 @@ In the last decades, the web and online services have revolutionized the modern 
 28. Links_pointing_to_page
 29. Statistical_report
 30. Result
+# Data Scouce
+UCI: https://archive.ics.uci.edu/ml/datasets/phishing+websites
+But I would reccomend using csv file available in this repository for ease of use.
+Download a copy of the repository and you will be good to go.
